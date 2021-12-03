@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you
 
 <!--
 **OptimistQAQ/OptimistQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,10 @@ I am a first-year postgraduate.
 - 🔭 I’m currently working on real-time video transmission in different languages.
 - 🌱 I’m currently learning Deep Learning.
 -->
+
+I am a first-year postgraduate.
+- 🔭 I’m currently working on real-time video transmission in different languages.
+- 🌱 I’m currently learning Deep Learning.
 
 📫 **Contact me by**:
 - [Homepage](https://optimistqaq.github.io/)
