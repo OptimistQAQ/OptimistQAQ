@@ -11,15 +11,15 @@ I am a first-year postgraduate.
 -->
 
 I am a first-year postgraduate.
-- 🔭 I’m currently working on real-time video transmission in different languages.
-- 🌱 I’m currently learning Deep Learning.
+- 🔭 I’m currently working on Image/Video denoising in extremely low light environments.
+- 🌱 I’m currently learning Model deployment.
 
 📫 **Contact me by**:
 - [Homepage](https://optimistqaq.github.io/)
 - Email (q656673477@gmail.com)
 
-----
 <!--
+----
 [![OptimistQAQ's github stats](https://github-readme-stats.vercel.app/api?username=OptimistQAQ&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptimistQAQ&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
